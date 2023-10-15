@@ -1,2 +1,2 @@
-# Estudando__com__Alura4
+# Estudando_com_Alura4
 Aprendendo JavaScript
